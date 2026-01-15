@@ -24,7 +24,7 @@
 @endif
 
 <div class="button-group">
-<a href="/selamatdatang" class="btn btn-login w-100">Masuk</a>
+<a href="/welcome" class="btn btn-login w-100">Masuk</a>
 <a href="/register" class="btn btn-daftar w-100">Daftar</a>
 </div>
 
